@@ -1,0 +1,15 @@
+C:\Users\nsinders\source\repos\BankApplication\BankApplicationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nsinders\source\repos\BankApplication\BankApplicationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nsinders\source\repos\BankApplication\BankApplicationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nsinders\source\repos\BankApplication\BankApplicationTests\bin\Debug\BankApplicationTests.dll
+C:\Users\nsinders\source\repos\BankApplication\BankApplicationTests\bin\Debug\BankApplicationTests.pdb
+C:\Users\nsinders\source\repos\BankApplication\BankApplicationTests\bin\Debug\BankApplication.dll
+C:\Users\nsinders\source\repos\BankApplication\BankApplicationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nsinders\source\repos\BankApplication\BankApplicationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nsinders\source\repos\BankApplication\BankApplicationTests\bin\Debug\BankApplication.pdb
+C:\Users\nsinders\source\repos\BankApplication\BankApplicationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nsinders\source\repos\BankApplication\BankApplicationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nsinders\source\repos\BankApplication\BankApplicationTests\obj\Debug\BankApplicationTests.csprojResolveAssemblyReference.cache
+C:\Users\nsinders\source\repos\BankApplication\BankApplicationTests\obj\Debug\BankApplicationTests.csproj.CoreCompileInputs.cache
+C:\Users\nsinders\source\repos\BankApplication\BankApplicationTests\obj\Debug\BankApplicationTests.dll
+C:\Users\nsinders\source\repos\BankApplication\BankApplicationTests\obj\Debug\BankApplicationTests.pdb
